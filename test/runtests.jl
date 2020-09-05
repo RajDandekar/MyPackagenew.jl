@@ -3,6 +3,7 @@ using Test
 
 my_funct(2,3)
 
+der(2,1)
 
 @testset "MyPackagenew.jl" begin
 @test my_funct(2,1) == 5
